@@ -1,0 +1,5 @@
+kms=int(input('enter km'))
+cm=km*100000
+print('km to cm conversion is',cm)
+op:enter km 56
+km to cm conversion is 5600000
